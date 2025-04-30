@@ -1,11 +1,11 @@
 
 # Hello World
 
-This is my home page! My name is Dyami Carney and I am a student at [Cal State Fullerton](http://www.fullerton.edu/) and my major is computer science
+This is my home page! My name is Dyami Carney and I am a student at [Cal State Fullerton](http://www.fullerton.edu/) and my major is Computer Science.
 
 ## Computer Science Projects
 
-My github page is https://github.com/DyamiC25
+My GitHub page is https://github.com/DyamiC25
 
 ### CPSC 120
 
